@@ -1,0 +1,6 @@
+com\warehouse\service\OrderProcessor.class
+com\warehouse\App.class
+com\warehouse\model\Product.class
+com\warehouse\service\AnalyticsService.class
+com\warehouse\model\Order.class
+com\warehouse\service\Warehouse.class
